@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ake119</h1>
-<h3 align="center">坚持学习，喜欢音乐，看点足球。</h3>
+<h3 align="center">坚持学习，喜欢音乐，爱看足球。</h3>
 
 - 🌱 I’m currently learning **Python、算法、计算机基础**
 
 - ⚡ Fun fact **My favorite club is Tottenham Hotspur**
 
-<h3 align="left">Connect with me:2500642513@qq.com</h3>
+<h3 align="left">Connect with me: 2500642513@qq.com</h3>
 <p align="left">
 </p>
 
